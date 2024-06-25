@@ -23,9 +23,9 @@ subhroy/subhroy is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ### About me
-- 👋 Hi, I’m Subhasis Roy.
-- 🏆 I’m experienced with Java , Microservices, Design Patterns, SOLID Principle, DevOps.
-- 💻 I’m currently working on Azure DevOps, Microservices, System Design, JVM.
+- 👋 I’m Subhasis Roy.
+- 🏆 I’m experienced with Java, Microservices, Design Patterns, SOLID Principle, DevOps.
+- 💻 I’m currently working on Development, DevOps, Microservices, System Design.
 - 📧 Reach me @[Email](subhasis.it@gmail.com)
 - 🌐 Connect me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
 
