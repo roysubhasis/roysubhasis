@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+<!--## Hey 👋, I'm Subhasis Roy!-->
 
 <!--
 **roysubhasis/roysubhasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,11 +36,15 @@ You can click the Preview link to take a look at your changes.
 ### Quick stats
 | Github Stats | Top Languages |
 | --- | --- |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&show_icons=true&theme=gotham) |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&show_icons=true&theme=gotham&langs_count=6) |
+
 
 <!--
 ![Top Langs11](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&hide_title=1&show_icons=true&theme=gotham) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=donut-vertical)](https://github.com/roysubhasis/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=pie)](https://github.com/roysubhasis/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&hide_progress=true)
