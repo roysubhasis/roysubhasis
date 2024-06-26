@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋, I’m Subhasis Roy
 
 <!--## Hey 👋, I'm Subhasis Roy!-->
 
@@ -6,7 +6,7 @@
 **roysubhasis/roysubhasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋 I’m Subhasis Roy.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -25,9 +25,9 @@ roysubhasis/roysubhasis is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ### About me
-- 👋 I’m Subhasis Roy.
-- 🏆 I’m experienced with Java, Microservices, Design Patterns, SOLID Principle, DevOps.
-- 💻 I’m currently working on Development, DevOps, Microservices, System Design.
+- 🏆 I’m a software professional, having expeperice in design and develop scalable enterprise application. 
+- 💻 I’m currently working on Java, Microservices, Azure DevOps.
+- 🌱 I’m currently learning Enterprise Architecture. 
 - 📧 Reach me @[Email](subhasis.it@gmail.com)
 - 🌐 Connect me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
 
