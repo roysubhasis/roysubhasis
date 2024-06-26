@@ -97,7 +97,7 @@ https://img.shields.io/badge/hacker-rank-green?logo=hackerrank
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
-### Tech Blog Posts
+### Tech Blog 
 <!-- BLOG_START -->
 - [JVM Architecture](https://dzone.com/articles/jvm-memory-architecture-and-gc)
 - [Log Monitoring With ELK](https://dzone.com/articles/jenkins-log-monitoring-with-elk) 
