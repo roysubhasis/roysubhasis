@@ -13,7 +13,7 @@
 
 | Github Stats | Top Languages | Coding Streak |
 | --- | --- | --- |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham&cache_seconds=21600&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8&hide_border=true) | ![Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=roysubhasis&theme=gotham&hide_border=true)
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8&hide_border=true) | ![Coding Streak](https://github-readme-streak-stats.herokuapp.com?user=roysubhasis&theme=gotham&hide_border=true)
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/roysubhasis/hacker-rank-codes/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/roysubhasis/hacker-rank-codes)
