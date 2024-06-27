@@ -25,9 +25,9 @@ roysubhasis/roysubhasis is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ### About me
-- 🏆 I’m a software professional, having expeperice in design and develop scalable enterprise application. 
+- 🏆 I’m a software professional, having expeperice in design, development, DevOps and Cloud technologies. 
 - 💻 I’m currently working on Java, Microservices, Azure DevOps.
-- 🌱 I’m currently learning Enterprise Architecture. 
+- 🌱 I’m currently learning The Open Group Architecture Framework. 
 - 📧 Reach me @[Email](subhasis.it@gmail.com)
 - 🌐 Connect me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
 
