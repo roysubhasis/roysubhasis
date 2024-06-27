@@ -22,7 +22,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/roysubhasis/hacker-rank-codes?style=social)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack%20Exchange&logo=stackoverflow)](https://stackoverflow.com/users/13646081)
 [![HackerRank](https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank)](https://www.hackerrank.com/profile/roysubhasis)
-[![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Discuss-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
+[![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Chat-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
 
 ---
 
