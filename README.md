@@ -73,6 +73,10 @@ Show some extra stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=donut-vertical)](https://github.com/roysubhasis/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=pie)](https://github.com/roysubhasis/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&hide_progress=true)
+
+Profile View:
+<p  align="right"><img src="https://komarev.com/ghpvc/?username=roysubhasis" alt="visitor badge"/></p>
+
 -->
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=roysubhasis)](https://github.com/roysubhasis/github-readme-stats)
@@ -116,6 +120,22 @@ Show some extra stats
 ![GitHub Repo stars](https://img.shields.io/github/stars/roysubhasis/hacker-rank-codes?style=social)
 <a href="https://stackoverflow.com/users/13646081"><img alt="StackExchangeReputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack Exchange&logo=stackoverflow"></a>
 <a href="https://www.hackerrank.com/profile/roysubhasis"><img alt="HackerRank Profile" src="https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank"></a>
+
+<!-- ASK ME link 
+Way 1: 
+[![💭Ask Me](https://img.shields.io/badge/Ask_me_anything-💭_Let's_chat-33CC99)](https://github.com/roysubhasis/roysubhasis/issues/new)
+
+
+Way 2:
+
+[![💭 Ask Me Anything][rys-badge]][rys-link]
+
+[rys-badge]: https://img.shields.io/badge/Ask_me_anything-💭_Let's_chat-33CC99
+[rys-link]: https://github.com/roysubhasis/roysubhasis/issues/new
+-->
+
+
+
 <!-- Not used...
 ![Stack Exchange2](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow)
 ![GitHub language count](https://img.shields.io/github/languages/count/roysubhasis/hacker-rank-codes)
@@ -220,7 +240,6 @@ https://github-profile-trophy.vercel.app/?username=roysubhasis&row=2&column=3
 ---
 
 ### Tech stack
-
 <p align="left">
       <img src="icons/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
       <img src="icons/java-icon.svg" alt="java" width="48" height="48"/> 
@@ -249,9 +268,14 @@ https://github-profile-trophy.vercel.app/?username=roysubhasis&row=2&column=3
 
 
 <!--
+Image reference - 
+https://github.com/ellerbrock/open-source-badges/
+-->
+<!--
 <a href="https://github.com/roysubhasis" alt="https://github.com/roysubhasis"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=000000"></a>
 <a href="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE" alt="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
 -->
+
 <!-- 
 ## 📨 Social & Contact
 
