@@ -1,4 +1,4 @@
-## Hi there 👋, I’m Subhasis Roy
+## Hi there 👋, I’m Subhasis Roy <a href="https://github.com/roysubhasis"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=roysubhasis&style=for-the-badge&color=blue"></a>
 
 <!--## Hey 👋, I'm Subhasis Roy!-->
 
@@ -38,6 +38,15 @@ You can click the Preview link to take a look at your changes.
 | Github Stats | Top Languages |
 | --- | --- |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham&cache_seconds=21600) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8) |
+
+<!-- 
+#Another awesome way of readme stat.
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=roysubhasis&theme=dark)]
+-->
+
+<!-- Another Stats Graph 
+[![Subhasis GitHub stats](https://gh-stats-card.vercel.app/api/subhroy)](https://github.com/subhroy)
+-->
 
 <!-- 
 Show some extra stats 
@@ -134,6 +143,22 @@ https://img.shields.io/badge/hacker-rank-green?logo=hackerrank
 Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 
+Ref URL: https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=darkhub
+         https://github-profile-trophy.vercel.app/?username=roysubhasis&margin-h=15
+         https://github-profile-trophy.vercel.app/?username=roysubhasis&column=3&margin-w=15&margin-h=15
+
+Hide-Frame:
+https://github-profile-trophy.vercel.app/?username=roysubhasis&no-frame=true
+
+Filter by Titles:
+https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers  -> (Specify multiple title together)
+
+Filter by Ranks: (Available Rank values: SECRET SSS SS S AAA AA A B C)
+[Filter by ranks](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA  -> (Specify multiple title together)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B -> (Exclude a Rank. Here excluding B rank)
+         
 ```
 [![trophy](https://github-profile-trophy.vercel.app/?username=roysubhasis)](https://github.com/roysubhasis/<repo-name>)
 ```
@@ -218,5 +243,167 @@ https://github-profile-trophy.vercel.app/?username=roysubhasis&row=2&column=3
 </p>
 
 ---
+
+<a href="https://github.com/roysubhasis" alt="https://github.com/roysubhasis"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=blue"></a>
+<a href="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE" alt="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=blue"></a>
+
+
+<!--
 <a href="https://github.com/roysubhasis" alt="https://github.com/roysubhasis"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=000000"></a>
 <a href="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE" alt="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
+-->
+<!-- 
+## 📨 Social & Contact
+
+<div align="left">
+  <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Email Address" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.researchgate.net/profile/Aras-Guengoere" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/23314477/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://leetcode.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+</div>
+## ⚙ Skills
+
+
+### 👨‍💻 Languages
+
+<div align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  </div>
+
+
+
+### 🛠 Technologies
+
+<div align="left">
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+</div>
+
+
+
+### 📚 Libraries
+
+<div align="left">
+  <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+</div>
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Aras Güngöre's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=arasgungore&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+<tr>
+    <td colspan=2 align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasgungore&theme=default" alt="Aras Güngöre's Profile Details" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arasgungore&theme=default" alt="Top Languages by Repo" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arasgungore&theme=default" alt="Top Languages by Commit" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arasgungore&theme=default" alt="Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arasgungore&theme=default&utcOffset=8" alt="Commits" /> </a>
+    </td>
+  </tr>
+</table>
+
+
+-->
+
+<!-- Another Design Approch  Good one...!!! 
+<div>
+<details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
+ 
+<p align="center">
+<a href="https://github.com/roysubhasis"> 
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Froysubhasis%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+14/02/24)&edge_flat=true" width="">    
+</a></p>
+
+<p align="center">
+<div align="center">
+ <a href="https://github.com/roysubhasis"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roysubhasis&theme=algolia" width="100%" /> </br></br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roysubhasis&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roysubhasis&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roysubhasis&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+
+ READ/CHECK THIS - GENERATE 3d Graph for Contribution
+ https://github.com/marketplace/actions/github-profile-3d-contrib 
+ https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/EXAMPLES.md
+ 
+<a href="https://github.com/roysubhasis"> 
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
+  </a> 
+  
+ [![Subh's github streak](https://github-readme-streak-stats.herokuapp.com/?user=roysubhasis&theme=algolia&card_width=1000)](https://github.com/roysubhasis) </br></br>
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/roysubhasis) </br>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=roysubhasis&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/roysubhasis) 
+</div>
+
+
+
+<a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
+
+</a><br/><br/>
+ <div align="center">
+</p >
+<br/>
+</details>
+ </div>div>
+ -->
+
+
+
+
