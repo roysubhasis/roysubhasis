@@ -31,7 +31,8 @@
 ---
 ### GitHub Trophies 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=nord&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=onedark&hide_border=true&no-frame=true&margin-w=25&no-bg=true&title=Experience,Repositories,Commits,Stars,PullRequest,Issues,Followers)
+
 
 ---
 
@@ -161,7 +162,7 @@ Show some extra stats
 [![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Discuss-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
 <!--![Visitors](https://pageview.vercel.app/?github_user=roysubhasis)-->
 
-
+<!--
 ![Top Langs11](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&hide_title=1&show_icons=true&theme=gotham) 
