@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ### Quick stats
 | Github Stats | Top Languages |
 | --- | --- |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8) |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham&cache_seconds=21600) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8) |
 
 <!-- 
 Show some extra stats 
