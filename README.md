@@ -22,16 +22,16 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/roysubhasis/hacker-rank-codes?style=social)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack%20Exchange&logo=stackoverflow)](https://stackoverflow.com/users/13646081)
 [![HackerRank](https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank)](https://www.hackerrank.com/profile/roysubhasis)
-[![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Chat-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
+[![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Discuss-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=react-dark&bg_color=20232a&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=gotham&bg_color=20232a&hide_border=true)
 
 ---
 ### GitHub Trophies 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=nord&bg_color=20232&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=nord&hide_border=true)
 
 ---
 
@@ -477,7 +477,21 @@ https://github.com/ellerbrock/open-source-badges/
 </p >
 <br/>
 </details>
- </div>div>
+ </div>
+
+CSS implementation
+-------------------
+
+<style>
+.custom-image {
+  width: 300px;
+  height: auto;
+}
+</style>
+
+<img src="/img/contact.png" alt="image" class="custom-image">
+
+ 
  -->
 
 
