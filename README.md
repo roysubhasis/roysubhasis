@@ -18,10 +18,12 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/roysubhasis/hacker-rank-codes/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/roysubhasis/hacker-rank-codes)
 ![pv](https://pageview.vercel.app/?github_user=roysubhasis)
+![Profile View](https://komarev.com/ghpvc/?username=roysubhasis)
 ![GitHub forks](https://img.shields.io/github/forks/roysubhasis/hacker-rank-codes?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/roysubhasis/hacker-rank-codes?style=social)
 [![StackExchangeReputation](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack%20Exchange&logo=stackoverflow)](https://stackoverflow.com/users/13646081)
 [![HackerRank](https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank)](https://www.hackerrank.com/profile/roysubhasis)
+[![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Chat-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
 
 ---
 
@@ -149,9 +151,18 @@ Show some extra stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=donut-vertical)](https://github.com/roysubhasis/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=pie)](https://github.com/roysubhasis/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&hide_progress=true)
+[![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Chat-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
+
 
 Profile View:
 <p  align="right"><img src="https://komarev.com/ghpvc/?username=roysubhasis" alt="visitor badge"/></p>
+
+ASK ME LINK ....
+
+[![Ask Me][rys-badge]][rys-chat-link] &nbsp;
+[rys-chat-link]: https://github.com/roysubhasis/roysubhasis/issues/new
+[rys-badge]: https://img.shields.io/badge/%F0%9F%92%ADAsk%20Me-Let's%20Chat-blue
+
 
 -->
 <!--
