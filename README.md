@@ -66,6 +66,27 @@ Show some extra stats
 </div>
 <br>
 -->
+<!--
+</p>
+  <p align="center">
+    <a href="https://github.com/roysubhasis/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/roysubhasis/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/roysubhasis/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/roysubhasis/github-readme-stats/branch/main/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/roysubhasis/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/roysubhasis/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/roysubhasis/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/roysubhasis/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/roysubhasis/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/roysubhasis/github-readme-stats/badge" />
+    </a>
+    <br />
+  </p>
+  -->
 
 ![GitHub all releases](https://img.shields.io/github/downloads/roysubhasis/hacker-rank-codes/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/roysubhasis/hacker-rank-codes)
