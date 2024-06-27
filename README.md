@@ -130,6 +130,59 @@ https://img.shields.io/badge/Hackerrank-228B22
 https://img.shields.io/badge/hacker-rank-green?logo=hackerrank
 -->
 
+<!-- GitHub Trophies
+Add the following code to your readme. When pasting the code into your profile's
+readme, change the `?username=` value to your GitHub's username.
+
+```
+[![trophy](https://github-profile-trophy.vercel.app/?username=roysubhasis)](https://github.com/roysubhasis/<repo-name>)
+```
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roysubhasis&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+## Use theme
+
+Add optional parameter of the theme.
+```
+[![trophy](https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=onedark)](https://github.com/roysubhasis/<repo-name>)
+```
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
+
+Available themes.
+flat,onedark,gruvbox,dracula,monokai,chalk,nord,alduin,darkhub,juicyfresh,buddhism,oldie,radical,onestar,discord,algolia,gitdimmed,tokyonight,matrix,apprentice,dark_dimmed,dark_lover,kimbie_dark,gotham
+
+Example Layout
+https://github-profile-trophy.vercel.app/?username=roysubhasis&column=3&margin-w=15&margin-h=15
+
+Specify the maximum row & column size
+You can specify the maximum row and column size.
+Trophy will be hidden if it exceeds the range of both row and column.
+
+Available value: number type
+Default: column=6 row=3
+
+Restrict only row
+https://github-profile-trophy.vercel.app/?username=roysubhasis&row=2
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=roysubhasis&row=2">
+</p>
+
+Restrict only column
+https://github-profile-trophy.vercel.app/?username=roysubhasis&column=2
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=roysubhasis&column=2">
+</p>
+
+Restrict row & column
+https://github-profile-trophy.vercel.app/?username=roysubhasis&row=2&column=3
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=roysubhasis&row=2&column=3">
+</p>
+-->
+
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
