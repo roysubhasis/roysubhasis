@@ -15,20 +15,26 @@
 | --- | --- | --- |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham&cache_seconds=21600&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8&hide_border=true) | ![Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=roysubhasis&theme=gotham&hide_border=true)
 
-![GitHub all releases](https://img.shields.io/github/downloads/roysubhasis/hacker-rank-codes/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/roysubhasis/hacker-rank-codes/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/roysubhasis/hacker-rank-codes)
 ![Visitors](https://pageview.vercel.app/?github_user=roysubhasis)
 ![GitHub forks](https://img.shields.io/github/forks/roysubhasis/hacker-rank-codes?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/roysubhasis/hacker-rank-codes?style=social)
-[![StackExchangeReputation](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack%20Exchange&logo=stackoverflow)](https://stackoverflow.com/users/13646081)
+[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack%20Exchange&logo=stackoverflow)](https://stackoverflow.com/users/13646081)
 [![HackerRank](https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank)](https://www.hackerrank.com/profile/roysubhasis)
-[![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Chat-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
+[![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Discuss-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
 
 ---
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=react-dark&bg_color=20232a&hide_border=true)
 
 ---
+### GitHub Trophies 
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=nord&bg_color=20232&hide_border=true)
+
+---
+
 ### Tech Blog 
 - [JVM Architecture](https://dzone.com/articles/jvm-memory-architecture-and-gc)
 - [Log Monitoring With ELK](https://dzone.com/articles/jenkins-log-monitoring-with-elk) 
@@ -113,6 +119,10 @@ You can click the Preview link to take a look at your changes.
 | Github Stats | Top Languages | Coding Streak |
 | --- | --- | --- |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham&cache_seconds=21600&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8&hide_border=true) | ![Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=roysubhasis&theme=gotham&hide_border=true)
+
+TROPHIES
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=nord&bg_color=20232&hide_border=true)
 
 
 
