@@ -17,12 +17,12 @@
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/roysubhasis/hacker-rank-codes/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/roysubhasis/hacker-rank-codes)
-![Visitors](https://pageview.vercel.app/?github_user=roysubhasis)
 ![GitHub forks](https://img.shields.io/github/forks/roysubhasis/hacker-rank-codes?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/roysubhasis/hacker-rank-codes?style=social)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack%20Exchange&logo=stackoverflow)](https://stackoverflow.com/users/13646081)
 [![HackerRank](https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank)](https://www.hackerrank.com/profile/roysubhasis)
 [![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Discuss-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
+<!--![Visitors](https://pageview.vercel.app/?github_user=roysubhasis)-->
 
 ---
 
@@ -150,8 +150,18 @@ Show some extra stats
 </p>
 -->
 
-<!--
-  <a href="https://www.buymeacoffee.com/roysubhasis"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="roysubhasis" /></a>
+<!-- STATS
+
+![GitHub All Releases](https://img.shields.io/github/downloads/roysubhasis/hacker-rank-codes/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/roysubhasis/hacker-rank-codes)
+![GitHub forks](https://img.shields.io/github/forks/roysubhasis/hacker-rank-codes?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/roysubhasis/hacker-rank-codes?style=social)
+[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack%20Exchange&logo=stackoverflow)](https://stackoverflow.com/users/13646081)
+[![HackerRank](https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank)](https://www.hackerrank.com/profile/roysubhasis)
+[![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Discuss-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
+<!--![Visitors](https://pageview.vercel.app/?github_user=roysubhasis)-->
+
+
 ![Top Langs11](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&hide_title=1&show_icons=true&theme=gotham) 
@@ -246,6 +256,10 @@ https://shields.io/docs/logos
 https://github.com/simple-icons/simple-icons/blob/master/slugs.md  => From here logo values has been taken
 https://img.shields.io/badge/Hackerrank-228B22
 https://img.shields.io/badge/hacker-rank-green?logo=hackerrank
+-->
+
+<!--
+  <a href="https://www.buymeacoffee.com/roysubhasis"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="roysubhasis" /></a>
 -->
 
 <!-- GitHub Trophies
