@@ -1,5 +1,66 @@
 ## Hi there 👋, I’m Subhasis Roy <a href="https://github.com/roysubhasis"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=roysubhasis&style=for-the-badge&color=blue"></a>
 
+### About me
+- 🏆 I’m a software professional, having expeperice in design, development, DevOps and Cloud technologies. 
+- 💻 I’m currently working on Java, Microservices, Azure DevOps.
+- 🌱 I’m currently learning The Open Group Architecture Framework. 
+- 📧 Reach me @[Email](subhasis.it@gmail.com)
+- 🌐 Connect me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
+
+---
+
+### Quick stats
+
+| Github Stats | Top Languages | Coding Streak |
+| --- | --- | --- |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham&cache_seconds=21600&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8&hide_border=true) | ![Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=roysubhasis&theme=gotham&hide_border=true)
+
+![GitHub all releases](https://img.shields.io/github/downloads/roysubhasis/hacker-rank-codes/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/roysubhasis/hacker-rank-codes)
+![pv](https://pageview.vercel.app/?github_user=roysubhasis)
+![GitHub forks](https://img.shields.io/github/forks/roysubhasis/hacker-rank-codes?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/roysubhasis/hacker-rank-codes?style=social)
+[![StackExchangeReputation](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack%20Exchange&logo=stackoverflow)](https://stackoverflow.com/users/13646081)
+[![HackerRank](https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank)](https://www.hackerrank.com/profile/roysubhasis)
+
+---
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=react-dark&bg_color=20232a&hide_border=true)
+
+---
+### Tech Blog 
+- [JVM Architecture](https://dzone.com/articles/jvm-memory-architecture-and-gc)
+- [Log Monitoring With ELK](https://dzone.com/articles/jenkins-log-monitoring-with-elk) 
+
+---
+
+### Tech stack
+<p align="left">
+      <img src="icons/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
+      <img src="icons/java-icon.svg" alt="java" width="48" height="48"/> 
+      <img src="icons/springio-icon.svg" alt="spring" width="40" height="40"/>
+      <img src="icons/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+      <img src="icons/amazon_aws-icon.svg" alt="amazonaws" width="40" height="40"/>   
+      <img src="icons/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+      <img src="icons/docker-official.svg" alt="docker" width="40" height="40"/>
+      <img src="icons/openshift-icon.svg" alt="openshift" width="40" height="40"/>
+      <img src="icons/nodejs-icon.svg" alt="Nodejs" width="50" height="40"/>            
+      <img src="icons/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+      <img src="icons/splunk-icon.svg" alt="splunk" width="40" height="40"/>
+      <img src="icons/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
+      <img src="icons/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+      <img src="icons/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
+      <img src="icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+      <img src="icons/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+      <img src="icons/python-icon.svg" alt="python" width="40" height="40"/>
+      <img src="icons/redis-icon.svg" alt="redis" width="40" height="40"/>
+</p>
+
+---
+
+[![Created By](https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=blue)](https://github.com/roysubhasis)
+[![License Info](https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=blue)](https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE)
+
 <!--## Hey 👋, I'm Subhasis Roy!-->
 
 <!--
@@ -24,20 +85,35 @@ Unauthorized copying or redistribution of this README file in source and binary 
 roysubhasis/roysubhasis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### About me
-- 🏆 I’m a software professional, having expeperice in design, development, DevOps and Cloud technologies. 
-- 💻 I’m currently working on Java, Microservices, Azure DevOps.
-- 🌱 I’m currently learning The Open Group Architecture Framework. 
-- 📧 Reach me @[Email](subhasis.it@gmail.com)
-- 🌐 Connect me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
 
----
+
+<!-- href ref 
+<a href="https://github.com/roysubhasis" alt="https://github.com/roysubhasis"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=blue"></a>
+<a href="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE" alt="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=blue"></a>
+
+<a href="https://stackoverflow.com/users/13646081"><img alt="StackExchangeReputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack Exchange&logo=stackoverflow"></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
+-->
+
+<!--- QUICK STATS  GRAPH
 
 ### Quick stats
+
+2 columns...
 
 | Github Stats | Top Languages |
 | --- | --- |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham&cache_seconds=21600) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8) |
+
+3columns with boder HIDE....
+
+| Github Stats | Top Languages | Coding Streak |
+| --- | --- | --- |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=roysubhasis&show_icons=true&theme=gotham&cache_seconds=21600&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&theme=gotham&langs_count=8&hide_border=true) | ![Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=roysubhasis&theme=gotham&hide_border=true)
+
+
 
 <!-- 
 #Another awesome way of readme stat.
@@ -112,15 +188,6 @@ Profile View:
     <br />
   </p>
   -->
-
-![GitHub all releases](https://img.shields.io/github/downloads/roysubhasis/hacker-rank-codes/total)
-![GitHub last commit](https://img.shields.io/github/last-commit/roysubhasis/hacker-rank-codes)
-![pv](https://pageview.vercel.app/?github_user=roysubhasis)
-![GitHub forks](https://img.shields.io/github/forks/roysubhasis/hacker-rank-codes?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/roysubhasis/hacker-rank-codes?style=social)
-<a href="https://stackoverflow.com/users/13646081"><img alt="StackExchangeReputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack Exchange&logo=stackoverflow"></a>
-<a href="https://www.hackerrank.com/profile/roysubhasis"><img alt="HackerRank Profile" src="https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank"></a>
-
 <!-- ASK ME link 
 Way 1: 
 [![💭Ask Me](https://img.shields.io/badge/Ask_me_anything-💭_Let's_chat-33CC99)](https://github.com/roysubhasis/roysubhasis/issues/new)
@@ -228,43 +295,6 @@ https://github-profile-trophy.vercel.app/?username=roysubhasis&row=2&column=3
 </p>
 -->
 
----
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
----
-### Tech Blog 
-<!-- BLOG_START -->
-- [JVM Architecture](https://dzone.com/articles/jvm-memory-architecture-and-gc)
-- [Log Monitoring With ELK](https://dzone.com/articles/jenkins-log-monitoring-with-elk) 
-<!-- BLOG_END -->
----
-
-### Tech stack
-<p align="left">
-      <img src="icons/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
-      <img src="icons/java-icon.svg" alt="java" width="48" height="48"/> 
-      <img src="icons/springio-icon.svg" alt="spring" width="40" height="40"/>
-      <img src="icons/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-      <img src="icons/amazon_aws-icon.svg" alt="amazonaws" width="40" height="40"/>   
-      <img src="icons/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-      <img src="icons/docker-official.svg" alt="docker" width="40" height="40"/>
-      <img src="icons/openshift-icon.svg" alt="openshift" width="40" height="40"/>
-      <img src="icons/nodejs-icon.svg" alt="Nodejs" width="50" height="40"/>            
-      <img src="icons/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-      <img src="icons/splunk-icon.svg" alt="splunk" width="40" height="40"/>
-      <img src="icons/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
-      <img src="icons/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-      <img src="icons/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-      <img src="icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-      <img src="icons/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
-      <img src="icons/python-icon.svg" alt="python" width="40" height="40"/>
-      <img src="icons/redis-icon.svg" alt="redis" width="40" height="40"/>
-</p>
-
----
-
-<a href="https://github.com/roysubhasis" alt="https://github.com/roysubhasis"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=blue"></a>
-<a href="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE" alt="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=blue"></a>
 
 
 <!--
