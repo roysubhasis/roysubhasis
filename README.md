@@ -31,7 +31,7 @@
 ---
 ### GitHub Trophies 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=onedark&hide_border=true&no-frame=true&margin-w=25&no-bg=true&title=Experience,Repositories,Commits,Stars,PullRequest,Issues,Followers)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roysubhasis&theme=onedark&hide_border=true&no-frame=true&margin-w=30&no-bg=true&title=Experience,Repositories,Commits,Stars,PullRequest,Issues,Followers)
 
 
 ---
