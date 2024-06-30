@@ -18,7 +18,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/roysubhasis/hacker-rank-codes)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack%20Exchange&logo=stackoverflow)](https://stackoverflow.com/users/13646081)
 [![HackerRank](https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank)](https://www.hackerrank.com/profile/roysubhasis)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/subhasis-roy/)
+[![LinkedIn](https://img.shields.io/badge/Linked-In-blue?logo=linkedin)](https://www.linkedin.com/in/subhasis-roy/)
 [![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Discuss-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
 
 
