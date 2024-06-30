@@ -24,6 +24,8 @@
 [![HackerRank](https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank)](https://www.hackerrank.com/profile/roysubhasis)
 [![Ask Me](https://img.shields.io/badge/Ask%20Me-%F0%9F%92%ADLet's%20Discuss-blue)](https://github.com/roysubhasis/roysubhasis/issues/new)
 ![Visitors](https://pageview.vercel.app/?github_user=roysubhasis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/subhasis-roy/)
+[![Linked-In](https://img.shields.io/badge/Linked-In-blue?logo=linkedin)](https://www.linkedin.com/in/subhasis-roy/)
 
 ---
 
