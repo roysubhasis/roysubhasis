@@ -29,7 +29,17 @@
 
 ---
 
+## Contribution Graph:
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=gotham&bg_color=20232a&hide_border=true)
+
+## Reference:
+[![Subhasis github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/roysubhasis/github-readme-activity-graph)
+
+[![Subhasis github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/roysubhasis/github-readme-activity-graph)
+
+Ref: 
+https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md
 
 ---
 ### GitHub Trophies 
