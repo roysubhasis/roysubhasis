@@ -51,7 +51,7 @@ roysubhasis/roysubhasis is a ✨ special ✨ repository because its `README.md` 
 
 ---
 
-### Quick stats
+### <img src='https://github.com/roysubhasis/roysubhasis/blob/main/icons/github-icon.svg' width='25' /> My Github Stats:
 
 | Github Stats | Top Languages | Coding Streak |
 | --- | --- | --- |
