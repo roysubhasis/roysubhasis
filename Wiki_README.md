@@ -3,7 +3,12 @@
 
 ## Hi there 👋, I’m Subhasis Roy <a href="https://github.com/roysubhasis"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=roysubhasis&style=for-the-badge&color=blue"></a>
 
-### About me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me (Style 1):
+- 🏆 I’m a software professional, having expeperice in design, development, DevOps and Cloud technologies. 
+- 💻 I’m currently working on Java, Microservices, Azure DevOps.
+- 🌱 I’m currently learning The Open Group Architecture Framework.
+- 
+### About me ( (Style 2)
 - 🏆 I’m a software professional, having expeperice in design, development, DevOps and Cloud technologies. 
 - 💻 I’m currently working on Java, Microservices, Azure DevOps.
 - 🌱 I’m currently learning The Open Group Architecture Framework. 
@@ -182,22 +187,39 @@ URL Ref: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main
 ---
 
 ### HEADER / FOOTER Badges
-
-<href ref 
 <a href="https://github.com/roysubhasis" alt="https://github.com/roysubhasis"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=blue"></a>
 <a href="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE" alt="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=blue"></a>
 
 <a href="https://stackoverflow.com/users/13646081"><img alt="StackExchangeReputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack Exchange&logo=stackoverflow"></a>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roysubhasis&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+## ASK ME LINK ....
+
+[![Ask Me][rys-badge]][rys-chat-link]&nbsp;
+[rys-chat-link]:https://github.com/roysubhasis/roysubhasis/issues/new
+[rys-badge]:https://img.shields.io/badge/%F0%9F%92%ADAsk%20Me-Let's%20Chat-blue
 
 
-ASK ME LINK ....
+<!-- Ref project addition
+### Full Stack Projects
 
-[![Ask Me][rys-badge]][rys-chat-link] &nbsp;
-[rys-chat-link]: https://github.com/roysubhasis/roysubhasis/issues/new
-[rys-badge]: https://img.shields.io/badge/%F0%9F%92%ADAsk%20Me-Let's%20Chat-blue
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](ProjectURL)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
+### Cybersecurity Projects
+
+[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
+[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
+[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+-->
 
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=roysubhasis)](https://github.com/roysubhasis/github-readme-stats)
