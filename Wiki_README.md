@@ -3,12 +3,12 @@
 
 ## Hi there 👋, I’m Subhasis Roy <a href="https://github.com/roysubhasis"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=roysubhasis&style=for-the-badge&color=blue"></a>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me (Style 1):
+### <img src="https://github.com/roysubhasis/roysubhasis/blob/main/designer_gif/Developer.gif" width="45" /> About Me (Style 1):
 - 🏆 I’m a software professional, having expeperice in design, development, DevOps and Cloud technologies. 
 - 💻 I’m currently working on Java, Microservices, Azure DevOps.
 - 🌱 I’m currently learning The Open Group Architecture Framework.
 - 
-### About me ( (Style 2)
+### About me (Style 2)
 - 🏆 I’m a software professional, having expeperice in design, development, DevOps and Cloud technologies. 
 - 💻 I’m currently working on Java, Microservices, Azure DevOps.
 - 🌱 I’m currently learning The Open Group Architecture Framework. 
