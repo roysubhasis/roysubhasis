@@ -9,7 +9,7 @@
 
 ---
 
-### Quick stats
+### <img src='https://github.com/roysubhasis/roysubhasis/blob/main/icons/github-original.svg' width='25' /> My Github Stats:
 
 | Github Stats | Top Languages | Coding Streak |
 | --- | --- | --- |
