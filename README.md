@@ -65,5 +65,6 @@
 
 ---
 
-[![Created By](https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=blue)](https://github.com/roysubhasis)
-[![License Info](https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=blue)](https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE)
+<a href="https://github.com/roysubhasis" alt="https://github.com/roysubhasis"><img align="left" width ="%" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=blue"></a>
+<a href="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE" alt="https://github.com/roysubhasis/roysubhasis/blob/main/LICENSE"><img align="right" width ="%" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=blue"></a>
+
