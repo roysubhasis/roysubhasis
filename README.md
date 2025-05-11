@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Subhasis Roy <a href="https://github.com/roysubhasis"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=roysubhasis&style=for-the-badge&color=blue"></a>
 
-### About me
+### <img src="https://github.com/roysubhasis/roysubhasis/blob/main/designer_gif/Developer.gif" width="45" /> About me
 - 🏆 I’m a software professional, having expeperice in design, development, DevOps and Cloud technologies. 
 - 💻 I’m currently working on Java, Microservices, Azure DevOps.
 - 🌱 I’m currently learning The Open Group Architecture Framework. 
@@ -9,7 +9,7 @@
 
 ---
 
-### <img src='https://github.com/roysubhasis/roysubhasis/blob/main/icons/github-original.svg' width='25' /> My Github Stats:
+### My Github Stats:
 
 | Github Stats | Top Languages | Coding Streak |
 | --- | --- | --- |
