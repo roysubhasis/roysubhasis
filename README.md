@@ -4,7 +4,7 @@
 - 🏆 I’m a software professional, with expeperice in Software design, development, DevOps and Cloud technologies. 
 - 💻 I’m currently working on Java, Microservices, Azure DevOps, AWS.
 - 🌱 I’m currently learning The Open Group Architecture Framework. 
-- 📧 Reach me @[Email](subhasis.it@gmail.com)
+- 📧 Reach me @[Email](subhasis03@gmail.com)
 - 🌐 Connect me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
 
 ---
